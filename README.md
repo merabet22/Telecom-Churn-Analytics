@@ -1,7 +1,6 @@
     # Telecom-Churn-Analytics
-    Churn is one of the largest problems facing most businesses. In this project we build a model to predict customer churn with logistic regression.
-    Loan Prediction
-
+    Churn is one of the largest problems facing most businesses. In this project we build a model 
+    to predict customer churn with logistic regression.
 
     Clone this repo to your computer.
     Get into the folder using cd Telecom-Churn-Analytics.
